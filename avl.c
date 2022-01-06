@@ -6,9 +6,6 @@
 /****
   Student1 name: Yaseen Abd-Elhaleem
   Student2 name: Giries Abo-Ayoub
-
-  Student1 ID: 211705538
-  Student2 ID: 318156171
 ****/
 
 /*The algorithms implemented here for the insertion, removal, rotations, split and join
